@@ -1,0 +1,11 @@
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map2d.cpp:[m[K In function ‘[01m[Kvoid obsCallback(const Odometry&)[m[K’:
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map2d.cpp:272:32:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kunsigned int[m[K’ and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  272 |     for (unsigned int i = 0; [01;35m[Ki < _obs_num[m[K; i++ ){
+      |                              [01;35m[K~~^~~~~~~~~~[m[K
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:[m[K In function ‘[01m[Kvoid obsCallback(const ConstPtr&)[m[K’:
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:242:32:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kunsigned int[m[K’ and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  242 |     for (unsigned int i = 0; [01;35m[Ki < _obs_num[m[K; i++ ){
+      |                              [01;35m[K~~^~~~~~~~~~[m[K
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:259:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kw[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  259 |     double x, y, [01;35m[Kw[m[K;
+      |                  [01;35m[K^[m[K

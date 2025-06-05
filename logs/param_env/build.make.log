@@ -1,0 +1,46 @@
+[  0%] Built target sensor_msgs_generate_messages_py
+[ 25%] [32mBuilding CXX object CMakeFiles/structure_map.dir/src/structure_map.cpp.o[0m
+[ 25%] Built target roscpp_generate_messages_nodejs
+[ 25%] Built target roscpp_generate_messages_lisp
+[ 25%] Built target roscpp_generate_messages_cpp
+[ 25%] Built target roscpp_generate_messages_eus
+[ 25%] Built target rosgraph_msgs_generate_messages_lisp
+[ 25%] Built target rosgraph_msgs_generate_messages_cpp
+[ 25%] Built target roscpp_generate_messages_py
+[ 25%] Built target std_msgs_generate_messages_cpp
+[ 25%] Built target rosgraph_msgs_generate_messages_py
+[ 25%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 25%] Built target std_msgs_generate_messages_eus
+[ 25%] Built target std_msgs_generate_messages_lisp
+[ 25%] Built target rosgraph_msgs_generate_messages_eus
+[ 25%] Built target std_srvs_generate_messages_cpp
+[ 25%] Built target std_msgs_generate_messages_nodejs
+[ 25%] Built target std_msgs_generate_messages_py
+[ 25%] Built target std_srvs_generate_messages_nodejs
+[ 25%] Built target std_srvs_generate_messages_lisp
+[ 25%] Built target std_srvs_generate_messages_eus
+[ 25%] Built target topic_tools_generate_messages_cpp
+[ 25%] Built target std_srvs_generate_messages_py
+[ 25%] Built target topic_tools_generate_messages_eus
+[ 25%] Built target topic_tools_generate_messages_lisp
+[ 25%] Built target topic_tools_generate_messages_py
+[ 25%] Built target geometry_msgs_generate_messages_cpp
+[ 25%] Built target geometry_msgs_generate_messages_eus
+[ 25%] Built target topic_tools_generate_messages_nodejs
+[ 25%] Built target geometry_msgs_generate_messages_lisp
+[ 25%] Built target geometry_msgs_generate_messages_nodejs
+[ 25%] Built target pcl_msgs_generate_messages_cpp
+[ 25%] Built target pcl_msgs_generate_messages_eus
+[ 25%] Built target pcl_msgs_generate_messages_lisp
+[ 25%] Built target sensor_msgs_generate_messages_eus
+[ 25%] Built target pcl_msgs_generate_messages_nodejs
+[ 25%] Built target geometry_msgs_generate_messages_py
+[ 25%] Built target pcl_msgs_generate_messages_py
+[ 25%] Built target sensor_msgs_generate_messages_cpp
+[ 25%] Built target sensor_msgs_generate_messages_lisp
+[ 25%] Built target sensor_msgs_generate_messages_nodejs
+[ 50%] [32mBuilding CXX object CMakeFiles/read_grid_map.dir/src/read_grid_map.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/jinyuan/project_sfc/devel/.private/param_env/lib/param_env/read_grid_map[0m
+[ 75%] Built target read_grid_map
+[100%] [32m[1mLinking CXX executable /home/jinyuan/project_sfc/devel/.private/param_env/lib/param_env/structure_map[0m
+[100%] Built target structure_map

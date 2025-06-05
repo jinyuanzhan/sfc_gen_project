@@ -1,0 +1,1 @@
+/home/jinyuan/project_sfc/devel/.private/vicon_env/share/vicon_env/cmake/vicon_env-msg-extras.cmake

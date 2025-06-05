@@ -1,0 +1,78 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _vicon_env_generate_messages_check_deps_SemanticArray
+[  0%] Built target _vicon_env_generate_messages_check_deps_Polygon
+[  0%] Built target _vicon_env_generate_messages_check_deps_Ellipse
+[  0%] Built target _vicon_env_generate_messages_check_deps_Polyhedron
+[  0%] Built target _vicon_env_generate_messages_check_deps_Point2d
+[  0%] Built target _vicon_env_generate_messages_check_deps_Point3d
+[  0%] Built target _vicon_env_generate_messages_check_deps_Circle
+[  0%] Built target _vicon_env_generate_messages_check_deps_Cylinder
+[  2%] [34m[1mGenerating C++ code from vicon_env/Point2d.msg[0m
+[  4%] [34m[1mGenerating C++ code from vicon_env/Point3d.msg[0m
+[  6%] [34m[1mGenerating C++ code from vicon_env/Circle.msg[0m
+[ 13%] [34m[1mGenerating C++ code from vicon_env/Polygon.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG vicon_env/Point2d[0m
+[ 13%] [34m[1mGenerating C++ code from vicon_env/Ellipse.msg[0m
+[ 15%] [34m[1mGenerating C++ code from vicon_env/Cylinder.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG vicon_env/Point3d[0m
+[ 19%] [34m[1mGenerating Python from MSG vicon_env/Ellipse[0m
+[ 21%] [34m[1mGenerating Python from MSG vicon_env/Polygon[0m
+[ 23%] [34m[1mGenerating Python from MSG vicon_env/Circle[0m
+[ 26%] [34m[1mGenerating Javascript code from vicon_env/Point2d.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from vicon_env/Point2d.msg[0m
+[ 30%] [34m[1mGenerating EusLisp code from vicon_env/Point2d.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from vicon_env/Point3d.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from vicon_env/Point3d.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from vicon_env/Point3d.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from vicon_env/Ellipse.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from vicon_env/Ellipse.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from vicon_env/Ellipse.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from vicon_env/Circle.msg[0m
+[ 47%] [34m[1mGenerating C++ code from vicon_env/Polyhedron.msg[0m
+[ 50%] [34m[1mGenerating C++ code from vicon_env/SemanticArray.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from vicon_env/Circle.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from vicon_env/Polygon.msg[0m
+[ 56%] [34m[1mGenerating Javascript code from vicon_env/Cylinder.msg[0m
+[ 58%] [34m[1mGenerating Python from MSG vicon_env/Cylinder[0m
+[ 60%] [34m[1mGenerating Javascript code from vicon_env/Polyhedron.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from vicon_env/Polygon.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG vicon_env/Polyhedron[0m
+[ 67%] [34m[1mGenerating Lisp code from vicon_env/Cylinder.msg[0m
+[ 69%] [34m[1mGenerating Python from MSG vicon_env/SemanticArray[0m
+[ 71%] [34m[1mGenerating Javascript code from vicon_env/SemanticArray.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from vicon_env/Circle.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from vicon_env/Polygon.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from vicon_env/Cylinder.msg[0m
+[ 80%] [34m[1mGenerating Lisp code from vicon_env/Polyhedron.msg[0m
+[ 82%] [34m[1mGenerating EusLisp code from vicon_env/Polyhedron.msg[0m
+[ 84%] [34m[1mGenerating EusLisp code from vicon_env/SemanticArray.msg[0m
+[ 86%] [34m[1mGenerating Lisp code from vicon_env/SemanticArray.msg[0m
+[ 89%] [34m[1mGenerating EusLisp manifest code for vicon_env[0m
+[ 89%] Built target vicon_env_generate_messages_cpp
+[ 89%] Built target vicon_env_generate_messages_nodejs
+[ 89%] Built target vicon_env_generate_messages_lisp
+[ 91%] [34m[1mGenerating Python msg __init__.py for vicon_env[0m
+[ 91%] Built target vicon_env_generate_messages_py
+[ 91%] Built target vicon_env_generate_messages_eus
+[ 91%] Built target vicon_env_generate_messages
+[ 93%] [32mBuilding CXX object CMakeFiles/vicon_map2d.dir/src/vicon_map2d.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/vicon_map3d.dir/src/vicon_map3d.cpp.o[0m
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map2d.cpp:[m[K In function ‘[01m[Kvoid obsCallback(const Odometry&)[m[K’:
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map2d.cpp:272:32:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kunsigned int[m[K’ and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  272 |     for (unsigned int i = 0; [01;35m[Ki < _obs_num[m[K; i++ ){
+      |                              [01;35m[K~~^~~~~~~~~~[m[K
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:[m[K In function ‘[01m[Kvoid obsCallback(const ConstPtr&)[m[K’:
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:242:32:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kunsigned int[m[K’ and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  242 |     for (unsigned int i = 0; [01;35m[Ki < _obs_num[m[K; i++ ){
+      |                              [01;35m[K~~^~~~~~~~~~[m[K
+[01m[K/home/jinyuan/project_sfc/src/kr_param_map/vicon_env/src/vicon_map3d.cpp:259:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kw[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  259 |     double x, y, [01;35m[Kw[m[K;
+      |                  [01;35m[K^[m[K
+[ 97%] [32m[1mLinking CXX executable /home/jinyuan/project_sfc/devel/.private/vicon_env/lib/vicon_env/vicon_map2d[0m
+[ 97%] Built target vicon_map2d
+[100%] [32m[1mLinking CXX executable /home/jinyuan/project_sfc/devel/.private/vicon_env/lib/vicon_env/vicon_map3d[0m
+[100%] Built target vicon_map3d
