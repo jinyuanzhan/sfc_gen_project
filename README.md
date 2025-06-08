@@ -30,3 +30,7 @@ Following is the screenshot result of this mini-project, based on informed RRT* 
 </p>
 
 *From left to right: We randomly select several targets and generate 3D SFCs and paths(red lines)*
+
+- Trajectory optimization (time allocation... etc.)
+- Control implementation
+- .....
