@@ -29,4 +29,4 @@ Following is the screenshot result of this mini-project, based on informed RRT* 
   <img src="src/planner/images/1-4.png" width="330" height="280" />
 </p>
 
-*From left to right: We randomly select several targets and generate 3D SFCs and paths*
+*From left to right: We randomly select several targets and generate 3D SFCs and paths(red lines)*
