@@ -11,7 +11,8 @@ This mini-project focuses on **way-point based initial path generation** and **s
 Also, we refer to several amazing open-source projects:
 
 1. [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER) for FIRI(fast iterative region inflation) corridor generation parts
-2. [DecompROS](https://github.com/sikang/DecompROS) for refering IRIS-like (generating polytopes on line segments) corridor generation 
+2. [DecompROS](https://github.com/sikang/DecompROS) for refering RILS (regional
+inflation by line search algorithm) corridor generation 
 3. [kr_param_map](https://github.com/KumarRobotics/kr_param_map) for custom structured map generation in project
 
 ## Features in this mini project
@@ -20,7 +21,7 @@ Also, we refer to several amazing open-source projects:
 3. Generates Safe Flight Corridors to ensure collision-free paths using method proposed in [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
 4. Visualizes the planned paths and safety corridors in RViz
 
-Following is the screenshot result of this mini-project, based on informed RRT* + FIRI SFC generation. *We also tried to implement the [IRIS like](https://github.com/sikang/DecompROS) version's SFC which was used for practice and fun (not finished).* Some result screenshots are shown below:
+Following is the screenshot result of this mini-project, based on informed RRT* + FIRI SFC generation. *We alao tried to implement the [RILS (DecompROS)](https://github.com/sikang/DecompROS) version's SFC which was used for practice and fun (not finished).* Some result screenshots are shown below:
 
 <p align="center">
   <img src="src/planner/images/1-1.png" width="330" height="280" />
