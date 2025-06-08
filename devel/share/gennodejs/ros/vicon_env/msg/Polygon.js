@@ -1,1 +1,0 @@
-/home/jinyuan/project_sfc/devel/.private/vicon_env/share/gennodejs/ros/vicon_env/msg/Polygon.js

@@ -1,6 +1,0 @@
-devel_space: /home/jinyuan/project_sfc/devel
-install: false
-install_space: /home/jinyuan/project_sfc/install
-profile: default
-source_space: /home/jinyuan/project_sfc/src
-workspace: /home/jinyuan/project_sfc

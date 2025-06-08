@@ -1,8 +1,0 @@
-prefix=/home/jinyuan/project_sfc/install
-
-Name: param_env
-Description: Description of param_env
-Version: 1.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lparam_env
-Requires: 

@@ -1,8 +1,0 @@
-# generated from catkin/cmake/template/pkg.context.pc.in
-CATKIN_PACKAGE_PREFIX = ""
-PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/jinyuan/project_sfc/devel/.private/vicon_env/include".split(';') if "/home/jinyuan/project_sfc/devel/.private/vicon_env/include" != "" else []
-PROJECT_CATKIN_DEPENDS = "message_runtime".replace(';', ' ')
-PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
-PROJECT_NAME = "vicon_env"
-PROJECT_SPACE_DIR = "/home/jinyuan/project_sfc/devel/.private/vicon_env"
-PROJECT_VERSION = "1.3.0"
