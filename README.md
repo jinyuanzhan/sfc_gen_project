@@ -20,7 +20,7 @@ Also, we refer to several amazing open-source projects:
 3. Generates Safe Flight Corridors to ensure collision-free paths using method proposed in [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
 4. Visualizes the planned paths and safety corridors in RViz
 
-Following is the screenshot result of this mini-project, based on informed RRT* + FIRI SFC generation. *We also tried to implement the [IRIS](https://github.com/sikang/DecompROS) version's SFC which was used for practice and fun (not finished).* Some result screenshots are shown below:
+Following is the screenshot result of this mini-project, based on informed RRT* + FIRI SFC generation. *We also tried to implement the [IRIS like](https://github.com/sikang/DecompROS) version's SFC which was used for practice and fun (not finished).* Some result screenshots are shown below:
 
 <p align="center">
   <img src="src/planner/images/1-1.png" width="330" height="280" />
