@@ -14,7 +14,7 @@ Also, we refer to several amazing open-source projects:
 2. [DecompROS](https://github.com/sikang/DecompROS) for refering IRIS-like corridor generation 
 3. [kr_param_map](https://github.com/KumarRobotics/kr_param_map) for custom structured map generation in project
 
-## Key Features in this mini project
+## Features in this mini project
 1. Map Generation: Creates structured maps using kr_param_map
 2. Path Planning: Plans optimal waypoint-based paths using OMPL's informed RRT* algorithm
 3. Generates Safe Flight Corridors to ensure collision-free paths using method proposed in [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER)
