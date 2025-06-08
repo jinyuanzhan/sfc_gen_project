@@ -11,7 +11,7 @@ This mini-project focuses on **way-point based initial path generation** and **s
 Also, we refer to several amazing open-source projects:
 
 1. [GCOPTER](https://github.com/ZJU-FAST-Lab/GCOPTER) for FIRI(fast iterative region inflation) corridor generation parts
-2. [DecompROS](https://github.com/sikang/DecompROS) for refering IRIS-like corridor generation 
+2. [DecompROS](https://github.com/sikang/DecompROS) for refering IRIS-like (generating polytopes on line segments) corridor generation 
 3. [kr_param_map](https://github.com/KumarRobotics/kr_param_map) for custom structured map generation in project
 
 ## Features in this mini project
